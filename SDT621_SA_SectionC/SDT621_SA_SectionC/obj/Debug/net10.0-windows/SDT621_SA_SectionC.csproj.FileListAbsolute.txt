@@ -1,0 +1,17 @@
+C:\Users\kevin\Desktop\SDT621_SA_SectionC\SADT621-SA\SDT621_SA_SectionC\SDT621_SA_SectionC\bin\Debug\net10.0-windows\SDT621_SA_SectionC.exe
+C:\Users\kevin\Desktop\SDT621_SA_SectionC\SADT621-SA\SDT621_SA_SectionC\SDT621_SA_SectionC\bin\Debug\net10.0-windows\SDT621_SA_SectionC.deps.json
+C:\Users\kevin\Desktop\SDT621_SA_SectionC\SADT621-SA\SDT621_SA_SectionC\SDT621_SA_SectionC\bin\Debug\net10.0-windows\SDT621_SA_SectionC.runtimeconfig.json
+C:\Users\kevin\Desktop\SDT621_SA_SectionC\SADT621-SA\SDT621_SA_SectionC\SDT621_SA_SectionC\bin\Debug\net10.0-windows\SDT621_SA_SectionC.dll
+C:\Users\kevin\Desktop\SDT621_SA_SectionC\SADT621-SA\SDT621_SA_SectionC\SDT621_SA_SectionC\bin\Debug\net10.0-windows\SDT621_SA_SectionC.pdb
+C:\Users\kevin\Desktop\SDT621_SA_SectionC\SADT621-SA\SDT621_SA_SectionC\SDT621_SA_SectionC\obj\Debug\net10.0-windows\SDT621_SA_SectionC.Form1.resources
+C:\Users\kevin\Desktop\SDT621_SA_SectionC\SADT621-SA\SDT621_SA_SectionC\SDT621_SA_SectionC\obj\Debug\net10.0-windows\SDT621_SA_SectionC.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\SDT621_SA_SectionC\SADT621-SA\SDT621_SA_SectionC\SDT621_SA_SectionC\obj\Debug\net10.0-windows\SDT621_SA_SectionC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\Desktop\SDT621_SA_SectionC\SADT621-SA\SDT621_SA_SectionC\SDT621_SA_SectionC\obj\Debug\net10.0-windows\SDT621_SA_SectionC.AssemblyInfoInputs.cache
+C:\Users\kevin\Desktop\SDT621_SA_SectionC\SADT621-SA\SDT621_SA_SectionC\SDT621_SA_SectionC\obj\Debug\net10.0-windows\SDT621_SA_SectionC.AssemblyInfo.cs
+C:\Users\kevin\Desktop\SDT621_SA_SectionC\SADT621-SA\SDT621_SA_SectionC\SDT621_SA_SectionC\obj\Debug\net10.0-windows\SDT621_SA_SectionC.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\SDT621_SA_SectionC\SADT621-SA\SDT621_SA_SectionC\SDT621_SA_SectionC\obj\Debug\net10.0-windows\SDT621_SA_SectionC.sourcelink.json
+C:\Users\kevin\Desktop\SDT621_SA_SectionC\SADT621-SA\SDT621_SA_SectionC\SDT621_SA_SectionC\obj\Debug\net10.0-windows\SDT621_SA_SectionC.dll
+C:\Users\kevin\Desktop\SDT621_SA_SectionC\SADT621-SA\SDT621_SA_SectionC\SDT621_SA_SectionC\obj\Debug\net10.0-windows\refint\SDT621_SA_SectionC.dll
+C:\Users\kevin\Desktop\SDT621_SA_SectionC\SADT621-SA\SDT621_SA_SectionC\SDT621_SA_SectionC\obj\Debug\net10.0-windows\SDT621_SA_SectionC.pdb
+C:\Users\kevin\Desktop\SDT621_SA_SectionC\SADT621-SA\SDT621_SA_SectionC\SDT621_SA_SectionC\obj\Debug\net10.0-windows\SDT621_SA_SectionC.genruntimeconfig.cache
+C:\Users\kevin\Desktop\SDT621_SA_SectionC\SADT621-SA\SDT621_SA_SectionC\SDT621_SA_SectionC\obj\Debug\net10.0-windows\ref\SDT621_SA_SectionC.dll
