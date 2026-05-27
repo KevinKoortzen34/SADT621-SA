@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SDT621_SA_SectionC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8119e6c610e7f10f1d99afba234880be0014d03")]
 [assembly: System.Reflection.AssemblyProductAttribute("SDT621_SA_SectionC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SDT621_SA_SectionC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
