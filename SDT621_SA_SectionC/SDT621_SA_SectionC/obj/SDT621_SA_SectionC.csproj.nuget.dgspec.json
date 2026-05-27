@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kevin\\Desktop\\SDT621_SA_SectionC\\SDT621_SA_SectionC\\SDT621_SA_SectionC.csproj": {}
+    "C:\\Users\\kevin\\Desktop\\SDT621_SA_SectionC\\SADT621-SA\\SDT621_SA_SectionC\\SDT621_SA_SectionC\\SDT621_SA_SectionC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kevin\\Desktop\\SDT621_SA_SectionC\\SDT621_SA_SectionC\\SDT621_SA_SectionC.csproj": {
+    "C:\\Users\\kevin\\Desktop\\SDT621_SA_SectionC\\SADT621-SA\\SDT621_SA_SectionC\\SDT621_SA_SectionC\\SDT621_SA_SectionC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kevin\\Desktop\\SDT621_SA_SectionC\\SDT621_SA_SectionC\\SDT621_SA_SectionC.csproj",
+        "projectUniqueName": "C:\\Users\\kevin\\Desktop\\SDT621_SA_SectionC\\SADT621-SA\\SDT621_SA_SectionC\\SDT621_SA_SectionC\\SDT621_SA_SectionC.csproj",
         "projectName": "SDT621_SA_SectionC",
-        "projectPath": "C:\\Users\\kevin\\Desktop\\SDT621_SA_SectionC\\SDT621_SA_SectionC\\SDT621_SA_SectionC.csproj",
+        "projectPath": "C:\\Users\\kevin\\Desktop\\SDT621_SA_SectionC\\SADT621-SA\\SDT621_SA_SectionC\\SDT621_SA_SectionC\\SDT621_SA_SectionC.csproj",
         "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kevin\\Desktop\\SDT621_SA_SectionC\\SDT621_SA_SectionC\\obj\\",
+        "outputPath": "C:\\Users\\kevin\\Desktop\\SDT621_SA_SectionC\\SADT621-SA\\SDT621_SA_SectionC\\SDT621_SA_SectionC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
